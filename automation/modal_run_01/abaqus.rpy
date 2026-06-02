@@ -28,3 +28,5 @@ o2 = session.openOdb(name='Job_Iteration_1.odb')
 #: Number of Steps:              1
 session.viewports['Viewport: 1'].setValues(displayedObject=o2)
 session.viewports['Viewport: 1'].makeCurrent()
+session.viewports['Viewport: 1'].odbDisplay.display.setValues(plotState=(
+    CONTOURS_ON_DEF, ))
