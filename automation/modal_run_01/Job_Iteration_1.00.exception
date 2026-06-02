@@ -1,0 +1,28 @@
+<Description>
+   ***  ABAQUS/standard rank 0 received the INTERRUPT signal
+</Description>
+
+
+<Memory>
+   <Current>             170 MB </Current>
+   <Physical>          16222 MB </Physical>
+   <Limit>             12977 MB </Limit>
+   <Virtual>       134217728 MB </Virtual>
+   <Accessible>        16222 MB </Accessible>
+   <Allocator>            DL    </Allocator>
+</Memory>
+
+<Directories>
+  <current> C:\Users\User\AppData\Local\Temp\User_Job_Iteration_1_36612 </current> 
+    <indir> C:\Paper3\50_run_automation\automation\modal_run_01 </indir> 
+   <outdir> C:\Paper3\50_run_automation\automation\modal_run_01 </outdir>
+   <tmpdir> C:\Users\User\AppData\Local\Temp\User_Job_Iteration_1_36612 </tmpdir>
+     <temp> C:\Users\User\AppData\Local\Temp </temp>
+</Directories>
+
+<Installation>
+     <Version> 3DEXPERIENCE R2019x  </Version>
+       <Build>   2018_09_25-00.11.51 157541 </Build>
+  <Executable> C:\Program Files\Dassault Systemes\SimulationServices\V6R2019x\win_b64\code\bin\standard.exe </Executable>
+</Installation>
+

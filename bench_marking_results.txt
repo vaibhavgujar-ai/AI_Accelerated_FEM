@@ -1,0 +1,21 @@
+======================================================================
+             HISTORICAL VS SURROGATE BENCHMARK REPORT
+======================================================================
+        Case ABAQUS CPU Time (s) GP Predict Time (s) Speedup Factor
+modal_run_40             0.20000            0.000006        34,482x
+modal_run_41             0.20000            0.000004        52,631x
+modal_run_42             0.30000            0.000011        27,273x
+modal_run_43             0.20000            0.000003        68,965x
+modal_run_44             0.30000            0.000003       100,001x
+modal_run_45             0.20000            0.000003        68,965x
+modal_run_46             0.20000            0.000011        18,868x
+modal_run_47             0.20000            0.000008        24,390x
+modal_run_48             0.20000            0.000004        54,054x
+modal_run_49             0.10000            0.000004        25,000x
+----------------------------------------------------------------------
+Average ABAQUS Run Time: 0.21000 seconds
+Average GP Predict Time: 0.000006 seconds
+Overall Surrogate Model Efficiency Boost: ~37,567x faster.
+======================================================================
+
+C:\Paper3\50_run_automation>

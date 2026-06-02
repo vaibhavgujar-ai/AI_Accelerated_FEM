@@ -1,0 +1,1074 @@
+Microsoft Windows [Version 10.0.26200.8457]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+Found 50 .dat files
+
+Run  0: FAILED
+Run  1: FAILED
+Run  2: FAILED
+Run  3: FAILED
+Run  4: FAILED
+Run  5: FAILED
+Run  6: FAILED
+Run  7: FAILED
+Run  8: FAILED
+Run  9: FAILED
+Run 10: FAILED
+Run 11: FAILED
+Run 12: FAILED
+Run 13: FAILED
+Run 14: FAILED
+Run 15: FAILED
+Run 16: FAILED
+Run 17: FAILED
+Run 18: FAILED
+Run 19: FAILED
+Run 20: FAILED
+Run 21: FAILED
+Run 22: FAILED
+Run 23: FAILED
+Run 24: FAILED
+Run 25: FAILED
+Run 26: FAILED
+Run 27: FAILED
+Run 28: FAILED
+Run 29: FAILED
+Run 30: FAILED
+Run 31: FAILED
+Run 32: FAILED
+Run 33: FAILED
+Run 34: FAILED
+Run 35: FAILED
+Run 36: FAILED
+Run 37: FAILED
+Run 38: FAILED
+Run 39: FAILED
+Run 40: FAILED
+Run 41: FAILED
+Run 42: FAILED
+Run 43: FAILED
+Run 44: FAILED
+Run 45: FAILED
+Run 46: FAILED
+Run 47: FAILED
+Run 48: FAILED
+Run 49: FAILED
+
+✓ Results saved to: results_summary.csv
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+Found 50 .dat files
+
+Run  0: FAILED
+Run  1: FAILED
+Run  2: FAILED
+Run  3: FAILED
+Run  4: FAILED
+Run  5: FAILED
+Run  6: FAILED
+Run  7: FAILED
+Run  8: FAILED
+Run  9: FAILED
+Run 10: FAILED
+Run 11: FAILED
+Run 12: FAILED
+Run 13: FAILED
+Run 14: FAILED
+Run 15: FAILED
+Run 16: FAILED
+Run 17: FAILED
+Run 18: FAILED
+Run 19: FAILED
+Run 20: FAILED
+Run 21: FAILED
+Run 22: FAILED
+Run 23: FAILED
+Run 24: FAILED
+Run 25: FAILED
+Run 26: FAILED
+Run 27: FAILED
+Run 28: FAILED
+Run 29: FAILED
+Run 30: FAILED
+Run 31: FAILED
+Run 32: FAILED
+Run 33: FAILED
+Run 34: FAILED
+Run 35: FAILED
+Run 36: FAILED
+Run 37: FAILED
+Run 38: FAILED
+Run 39: FAILED
+Run 40: FAILED
+Run 41: FAILED
+Run 42: FAILED
+Run 43: FAILED
+Run 44: FAILED
+Run 45: FAILED
+Run 46: FAILED
+Run 47: FAILED
+Run 48: FAILED
+Run 49: FAILED
+Traceback (most recent call last):
+  File "C:\Paper3\50_run_automation\frequencies_extractor_script.py", line 94, in <module>
+    with open(RESULTS_CSV, 'w', newline='') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'results_summary.csv'
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+Found 50 .dat files
+
+Run  0: FAILED
+Run  1: FAILED
+Run  2: FAILED
+Run  3: FAILED
+Run  4: FAILED
+Run  5: FAILED
+Run  6: FAILED
+Run  7: FAILED
+Run  8: FAILED
+Run  9: FAILED
+Run 10: FAILED
+Run 11: FAILED
+Run 12: FAILED
+Run 13: FAILED
+Run 14: FAILED
+Run 15: FAILED
+Run 16: FAILED
+Run 17: FAILED
+Run 18: FAILED
+Run 19: FAILED
+Run 20: FAILED
+Run 21: FAILED
+Run 22: FAILED
+Run 23: FAILED
+Run 24: FAILED
+Run 25: FAILED
+Run 26: FAILED
+Run 27: FAILED
+Run 28: FAILED
+Run 29: FAILED
+Run 30: FAILED
+Run 31: FAILED
+Run 32: FAILED
+Run 33: FAILED
+Run 34: FAILED
+Run 35: FAILED
+Run 36: FAILED
+Run 37: FAILED
+Run 38: FAILED
+Run 39: FAILED
+Run 40: FAILED
+Run 41: FAILED
+Run 42: FAILED
+Run 43: FAILED
+Run 44: FAILED
+Run 45: FAILED
+Run 46: FAILED
+Run 47: FAILED
+Run 48: FAILED
+Run 49: FAILED
+
+✓ Results saved to: results_summary.csv
+✓ Successful: 0/50
+
+C:\Paper3\50_run_automation>python frequency_extractor.py
+Reading: C:\Paper3\50_run_automation\modal_run_00\modal_run_00.dat
+
+Line 107: '*frequency, eigensolver=LANCZOS, normalization=MASS, sim=YES, acousticcoupling=ON'
+Line 111: '*frequency, eigensolver=LANCZOS, normalization=MASS, sim=YES, acousticcoupling=ON'
+Line 112: '*frequency, eigensolver=LANCZOS, normalization=MASS, sim=YES, acousticcoupling=ON'
+Line 118: '*frequency, eigensolver=LANCZOS, normalization=MASS, sim=YES, acousticcoupling=ON'
+Line 119: '*frequency, eigensolver=LANCZOS, normalization=MASS, sim=YES, acousticcoupling=ON'
+Line 131: 'TOTAL NUMBER OF VARIABLES IN THE MODEL                14478'
+Line 167: 'STRUCTURAL AND ACOUSTIC MODES'
+Line 168: 'NUMBER OF EIGENVALUES                     10'
+Line 169: 'HIGHEST FREQUENCY OF INTEREST                  1.00000E+18'
+Line 180: 'TOTAL MASS OF MODEL'
+Line 185: 'LOCATION OF THE CENTER OF MASS OF THE MODEL'
+Line 231: 'THE SAME STEP). EXAMPLES ARE: PROBLEMS WITH SIGNIFICANT CONTACT CHANGES, PROBLEMS WITH MODEL'
+Line 254: 'MODE NO      EIGENVALUE              FREQUENCY         GENERALIZED MASS   COMPOSITE MODAL DAMPING'
+Line 272: 'MODE NO    X-COMPONENT    Y-COMPONENT    Z-COMPONENT    X-ROTATION     Y-ROTATION     Z-ROTATION'
+Line 288: 'MODE NO    X-COMPONENT    Y-COMPONENT    Z-COMPONENT    X-ROTATION     Y-ROTATION     Z-ROTATION'
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+Found 50 .dat files
+
+Run  0: FAILED
+Run  1: FAILED
+Run  2: FAILED
+Run  3: FAILED
+Run  4: FAILED
+Run  5: FAILED
+Run  6: FAILED
+Run  7: FAILED
+Run  8: FAILED
+Run  9: FAILED
+Run 10: FAILED
+Run 11: FAILED
+Run 12: FAILED
+Run 13: FAILED
+Run 14: FAILED
+Run 15: FAILED
+Run 16: FAILED
+Run 17: FAILED
+Run 18: FAILED
+Run 19: FAILED
+Run 20: FAILED
+Run 21: FAILED
+Run 22: FAILED
+Run 23: FAILED
+Run 24: FAILED
+Run 25: FAILED
+Run 26: FAILED
+Run 27: FAILED
+Run 28: FAILED
+Run 29: FAILED
+Run 30: FAILED
+Run 31: FAILED
+Run 32: FAILED
+Run 33: FAILED
+Run 34: FAILED
+Run 35: FAILED
+Run 36: FAILED
+Run 37: FAILED
+Run 38: FAILED
+Run 39: FAILED
+Run 40: FAILED
+Run 41: FAILED
+Run 42: FAILED
+Run 43: FAILED
+Run 44: FAILED
+Run 45: FAILED
+Run 46: FAILED
+Run 47: FAILED
+Run 48: FAILED
+Run 49: FAILED
+
+✓ Results saved to: results_summary.csv
+✓ Successful: 0/50
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.p
+python: can't open file 'C:\\Paper3\\50_run_automation\\frequencies_extractor_script.p': [Errno 2] No such file or directory
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+Found 50 .dat files
+
+Run  0:   9.9184 Hz,  42.3770 Hz,  80.7570 Hz
+Run  1:  10.8330 Hz,  46.0180 Hz,  87.6460 Hz
+Run  2:   7.2129 Hz,  30.7850 Hz,  58.6480 Hz
+Run  3:  31.7060 Hz, 135.2000 Hz, 257.7700 Hz
+Run  4:   9.3169 Hz,  39.6340 Hz,  75.5000 Hz
+Run  5:   2.1913 Hz,   9.3280 Hz,  17.7680 Hz
+Run  6:  19.9690 Hz,  84.9620 Hz, 161.9200 Hz
+Run  7:  21.4860 Hz,  91.8930 Hz, 175.1600 Hz
+Run  8:  22.0740 Hz,  93.7930 Hz, 178.7600 Hz
+Run  9:  11.0940 Hz,  47.3740 Hz,  90.2570 Hz
+Run 10:  10.2070 Hz,  43.5370 Hz,  82.9580 Hz
+Run 11:   9.3412 Hz,  39.7400 Hz,  75.7110 Hz
+Run 12:   3.9608 Hz,  16.8800 Hz,  32.1550 Hz
+Run 13:   3.6164 Hz,  15.4260 Hz,  29.3850 Hz
+Run 14:  20.4860 Hz,  87.2450 Hz, 166.2900 Hz
+Run 15:  15.9600 Hz,  67.7970 Hz, 129.1500 Hz
+Run 16:   6.3060 Hz,  26.7920 Hz,  51.0310 Hz
+Run 17:  26.3800 Hz, 112.6800 Hz, 214.7500 Hz
+Run 18:  19.2600 Hz,  82.0080 Hz, 156.3400 Hz
+Run 19:  13.8620 Hz,  59.2500 Hz, 112.9000 Hz
+Run 20:  12.2960 Hz,  52.5010 Hz, 100.0700 Hz
+Run 21:  16.0190 Hz,  68.0640 Hz, 129.6900 Hz
+Run 22:  10.5300 Hz,  44.9840 Hz,  85.7010 Hz
+Run 23:   5.2839 Hz,  22.5750 Hz,  43.0040 Hz
+Run 24:  16.9290 Hz,  72.1550 Hz, 137.5700 Hz
+Run 25:   1.9889 Hz,   8.4930 Hz,  16.1790 Hz
+Run 26:   6.8406 Hz,  29.1130 Hz,  55.4560 Hz
+Run 27:   3.4920 Hz,  14.8480 Hz,  28.2830 Hz
+Run 28:   6.3260 Hz,  26.9660 Hz,  51.3720 Hz
+Run 29:   1.7123 Hz,   7.2751 Hz,  13.8550 Hz
+Run 30:  19.2760 Hz,  82.1740 Hz, 156.6100 Hz
+Run 31:   8.3665 Hz,  35.6460 Hz,  67.9120 Hz
+Run 32:  17.1450 Hz,  73.3020 Hz, 139.6700 Hz
+Run 33:  11.3180 Hz,  48.2050 Hz,  91.8420 Hz
+Run 34:  18.4200 Hz,  78.6050 Hz, 149.8300 Hz
+Run 35:  26.0840 Hz, 110.9200 Hz, 211.4400 Hz
+Run 36:  28.4520 Hz, 121.5100 Hz, 231.6400 Hz
+Run 37:  14.6730 Hz,  62.6160 Hz, 119.3100 Hz
+Run 38:  19.4330 Hz,  82.7350 Hz, 157.6700 Hz
+Run 39:   5.1632 Hz,  21.9910 Hz,  41.8920 Hz
+Run 40:  16.9870 Hz,  72.5840 Hz, 138.3500 Hz
+Run 41:  25.8870 Hz, 110.1400 Hz, 209.9300 Hz
+Run 42:   7.0999 Hz,  30.2700 Hz,  57.6740 Hz
+Run 43:   9.9169 Hz,  42.1630 Hz,  80.3200 Hz
+Run 44:  18.9910 Hz,  80.7390 Hz, 153.8300 Hz
+Run 45:   4.1298 Hz,  17.5520 Hz,  33.4300 Hz
+Run 46:  10.9070 Hz,  46.4270 Hz,  88.4660 Hz
+Run 47:  19.9910 Hz,  85.1470 Hz, 162.2600 Hz
+Run 48:   7.9828 Hz,  34.0480 Hz,  64.8620 Hz
+Run 49:  18.8490 Hz,  80.3960 Hz, 153.2100 Hz
+
+✓ Results saved to: results_summary.csv
+✓ Successful: 50/50
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+===========================================================================
+  FREQUENCY EXTRACTION - Hz (CYCLES/TIME)
+===========================================================================
+
+Loading parameters from CSV...
+✓ Loaded 50 parameter sets
+✓ Found 50 .dat files
+
+Extracting frequencies:
+───────────────────────────────────────────────────────────────────────────
+  Run  0: f1=  9.9184 Hz  f2= 42.3770 Hz  f3= 80.7570 Hz
+  Run  1: f1= 10.8330 Hz  f2= 46.0180 Hz  f3= 87.6460 Hz
+  Run  2: f1=  7.2129 Hz  f2= 30.7850 Hz  f3= 58.6480 Hz
+  Run  3: f1= 31.7060 Hz  f2=135.2000 Hz  f3=257.7700 Hz
+  Run  4: f1=  9.3169 Hz  f2= 39.6340 Hz  f3= 75.5000 Hz
+  Run  5: f1=  2.1913 Hz  f2=  9.3280 Hz  f3= 17.7680 Hz
+  Run  6: f1= 19.9690 Hz  f2= 84.9620 Hz  f3=161.9200 Hz
+  Run  7: f1= 21.4860 Hz  f2= 91.8930 Hz  f3=175.1600 Hz
+  Run  8: f1= 22.0740 Hz  f2= 93.7930 Hz  f3=178.7600 Hz
+  Run  9: f1= 11.0940 Hz  f2= 47.3740 Hz  f3= 90.2570 Hz
+  Run 10: f1= 10.2070 Hz  f2= 43.5370 Hz  f3= 82.9580 Hz
+  Run 11: f1=  9.3412 Hz  f2= 39.7400 Hz  f3= 75.7110 Hz
+  Run 12: f1=  3.9608 Hz  f2= 16.8800 Hz  f3= 32.1550 Hz
+  Run 13: f1=  3.6164 Hz  f2= 15.4260 Hz  f3= 29.3850 Hz
+  Run 14: f1= 20.4860 Hz  f2= 87.2450 Hz  f3=166.2900 Hz
+  Run 15: f1= 15.9600 Hz  f2= 67.7970 Hz  f3=129.1500 Hz
+  Run 16: f1=  6.3060 Hz  f2= 26.7920 Hz  f3= 51.0310 Hz
+  Run 17: f1= 26.3800 Hz  f2=112.6800 Hz  f3=214.7500 Hz
+  Run 18: f1= 19.2600 Hz  f2= 82.0080 Hz  f3=156.3400 Hz
+  Run 19: f1= 13.8620 Hz  f2= 59.2500 Hz  f3=112.9000 Hz
+  Run 20: f1= 12.2960 Hz  f2= 52.5010 Hz  f3=100.0700 Hz
+  Run 21: f1= 16.0190 Hz  f2= 68.0640 Hz  f3=129.6900 Hz
+  Run 22: f1= 10.5300 Hz  f2= 44.9840 Hz  f3= 85.7010 Hz
+  Run 23: f1=  5.2839 Hz  f2= 22.5750 Hz  f3= 43.0040 Hz
+  Run 24: f1= 16.9290 Hz  f2= 72.1550 Hz  f3=137.5700 Hz
+  Run 25: f1=  1.9889 Hz  f2=  8.4930 Hz  f3= 16.1790 Hz
+  Run 26: f1=  6.8406 Hz  f2= 29.1130 Hz  f3= 55.4560 Hz
+  Run 27: f1=  3.4920 Hz  f2= 14.8480 Hz  f3= 28.2830 Hz
+  Run 28: f1=  6.3260 Hz  f2= 26.9660 Hz  f3= 51.3720 Hz
+  Run 29: f1=  1.7123 Hz  f2=  7.2751 Hz  f3= 13.8550 Hz
+  Run 30: f1= 19.2760 Hz  f2= 82.1740 Hz  f3=156.6100 Hz
+  Run 31: f1=  8.3665 Hz  f2= 35.6460 Hz  f3= 67.9120 Hz
+  Run 32: f1= 17.1450 Hz  f2= 73.3020 Hz  f3=139.6700 Hz
+  Run 33: f1= 11.3180 Hz  f2= 48.2050 Hz  f3= 91.8420 Hz
+  Run 34: f1= 18.4200 Hz  f2= 78.6050 Hz  f3=149.8300 Hz
+  Run 35: f1= 26.0840 Hz  f2=110.9200 Hz  f3=211.4400 Hz
+  Run 36: f1= 28.4520 Hz  f2=121.5100 Hz  f3=231.6400 Hz
+  Run 37: f1= 14.6730 Hz  f2= 62.6160 Hz  f3=119.3100 Hz
+  Run 38: f1= 19.4330 Hz  f2= 82.7350 Hz  f3=157.6700 Hz
+  Run 39: f1=  5.1632 Hz  f2= 21.9910 Hz  f3= 41.8920 Hz
+  Run 40: f1= 16.9870 Hz  f2= 72.5840 Hz  f3=138.3500 Hz
+  Run 41: f1= 25.8870 Hz  f2=110.1400 Hz  f3=209.9300 Hz
+  Run 42: f1=  7.0999 Hz  f2= 30.2700 Hz  f3= 57.6740 Hz
+  Run 43: f1=  9.9169 Hz  f2= 42.1630 Hz  f3= 80.3200 Hz
+  Run 44: f1= 18.9910 Hz  f2= 80.7390 Hz  f3=153.8300 Hz
+  Run 45: f1=  4.1298 Hz  f2= 17.5520 Hz  f3= 33.4300 Hz
+  Run 46: f1= 10.9070 Hz  f2= 46.4270 Hz  f3= 88.4660 Hz
+  Run 47: f1= 19.9910 Hz  f2= 85.1470 Hz  f3=162.2600 Hz
+  Run 48: f1=  7.9828 Hz  f2= 34.0480 Hz  f3= 64.8620 Hz
+  Run 49: f1= 18.8490 Hz  f2= 80.3960 Hz  f3=153.2100 Hz
+
+===========================================================================
+Traceback (most recent call last):
+  File "C:\Paper3\50_run_automation\frequencies_extractor_script.py", line 114, in <module>
+    with open(RESULTS_CSV, 'w', newline='') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'results_summary.csv'
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+===========================================================================
+  FREQUENCY EXTRACTION - Hz (CYCLES/TIME)
+===========================================================================
+
+Loading parameters from CSV...
+✓ Loaded 50 parameter sets
+✓ Found 50 .dat files
+
+Extracting frequencies:
+───────────────────────────────────────────────────────────────────────────
+  Run  0: f1=  9.9184 Hz  f2= 42.3770 Hz  f3= 80.7570 Hz
+  Run  1: f1= 10.8330 Hz  f2= 46.0180 Hz  f3= 87.6460 Hz
+  Run  2: f1=  7.2129 Hz  f2= 30.7850 Hz  f3= 58.6480 Hz
+  Run  3: f1= 31.7060 Hz  f2=135.2000 Hz  f3=257.7700 Hz
+  Run  4: f1=  9.3169 Hz  f2= 39.6340 Hz  f3= 75.5000 Hz
+  Run  5: f1=  2.1913 Hz  f2=  9.3280 Hz  f3= 17.7680 Hz
+  Run  6: f1= 19.9690 Hz  f2= 84.9620 Hz  f3=161.9200 Hz
+  Run  7: f1= 21.4860 Hz  f2= 91.8930 Hz  f3=175.1600 Hz
+  Run  8: f1= 22.0740 Hz  f2= 93.7930 Hz  f3=178.7600 Hz
+  Run  9: f1= 11.0940 Hz  f2= 47.3740 Hz  f3= 90.2570 Hz
+  Run 10: f1= 10.2070 Hz  f2= 43.5370 Hz  f3= 82.9580 Hz
+  Run 11: f1=  9.3412 Hz  f2= 39.7400 Hz  f3= 75.7110 Hz
+  Run 12: f1=  3.9608 Hz  f2= 16.8800 Hz  f3= 32.1550 Hz
+  Run 13: f1=  3.6164 Hz  f2= 15.4260 Hz  f3= 29.3850 Hz
+  Run 14: f1= 20.4860 Hz  f2= 87.2450 Hz  f3=166.2900 Hz
+  Run 15: f1= 15.9600 Hz  f2= 67.7970 Hz  f3=129.1500 Hz
+  Run 16: f1=  6.3060 Hz  f2= 26.7920 Hz  f3= 51.0310 Hz
+  Run 17: f1= 26.3800 Hz  f2=112.6800 Hz  f3=214.7500 Hz
+  Run 18: f1= 19.2600 Hz  f2= 82.0080 Hz  f3=156.3400 Hz
+  Run 19: f1= 13.8620 Hz  f2= 59.2500 Hz  f3=112.9000 Hz
+  Run 20: f1= 12.2960 Hz  f2= 52.5010 Hz  f3=100.0700 Hz
+  Run 21: f1= 16.0190 Hz  f2= 68.0640 Hz  f3=129.6900 Hz
+  Run 22: f1= 10.5300 Hz  f2= 44.9840 Hz  f3= 85.7010 Hz
+  Run 23: f1=  5.2839 Hz  f2= 22.5750 Hz  f3= 43.0040 Hz
+  Run 24: f1= 16.9290 Hz  f2= 72.1550 Hz  f3=137.5700 Hz
+  Run 25: f1=  1.9889 Hz  f2=  8.4930 Hz  f3= 16.1790 Hz
+  Run 26: f1=  6.8406 Hz  f2= 29.1130 Hz  f3= 55.4560 Hz
+  Run 27: f1=  3.4920 Hz  f2= 14.8480 Hz  f3= 28.2830 Hz
+  Run 28: f1=  6.3260 Hz  f2= 26.9660 Hz  f3= 51.3720 Hz
+  Run 29: f1=  1.7123 Hz  f2=  7.2751 Hz  f3= 13.8550 Hz
+  Run 30: f1= 19.2760 Hz  f2= 82.1740 Hz  f3=156.6100 Hz
+  Run 31: f1=  8.3665 Hz  f2= 35.6460 Hz  f3= 67.9120 Hz
+  Run 32: f1= 17.1450 Hz  f2= 73.3020 Hz  f3=139.6700 Hz
+  Run 33: f1= 11.3180 Hz  f2= 48.2050 Hz  f3= 91.8420 Hz
+  Run 34: f1= 18.4200 Hz  f2= 78.6050 Hz  f3=149.8300 Hz
+  Run 35: f1= 26.0840 Hz  f2=110.9200 Hz  f3=211.4400 Hz
+  Run 36: f1= 28.4520 Hz  f2=121.5100 Hz  f3=231.6400 Hz
+  Run 37: f1= 14.6730 Hz  f2= 62.6160 Hz  f3=119.3100 Hz
+  Run 38: f1= 19.4330 Hz  f2= 82.7350 Hz  f3=157.6700 Hz
+  Run 39: f1=  5.1632 Hz  f2= 21.9910 Hz  f3= 41.8920 Hz
+  Run 40: f1= 16.9870 Hz  f2= 72.5840 Hz  f3=138.3500 Hz
+  Run 41: f1= 25.8870 Hz  f2=110.1400 Hz  f3=209.9300 Hz
+  Run 42: f1=  7.0999 Hz  f2= 30.2700 Hz  f3= 57.6740 Hz
+  Run 43: f1=  9.9169 Hz  f2= 42.1630 Hz  f3= 80.3200 Hz
+  Run 44: f1= 18.9910 Hz  f2= 80.7390 Hz  f3=153.8300 Hz
+  Run 45: f1=  4.1298 Hz  f2= 17.5520 Hz  f3= 33.4300 Hz
+  Run 46: f1= 10.9070 Hz  f2= 46.4270 Hz  f3= 88.4660 Hz
+  Run 47: f1= 19.9910 Hz  f2= 85.1470 Hz  f3=162.2600 Hz
+  Run 48: f1=  7.9828 Hz  f2= 34.0480 Hz  f3= 64.8620 Hz
+  Run 49: f1= 18.8490 Hz  f2= 80.3960 Hz  f3=153.2100 Hz
+
+===========================================================================
+✓ Results saved to: results_summary.csv
+✓ Successful extractions: 50/50
+===========================================================================
+
+
+C:\Paper3\50_run_automation>python frequencies_extractor_script.py
+===========================================================================
+  FREQUENCY EXTRACTION - Hz (CYCLES/TIME)
+  Converting: Hz = RAD/SEC / (2π)
+===========================================================================
+
+Loading parameters from CSV...
+✓ Loaded 50 parameter sets
+✓ Found 50 .dat files
+
+Extracting frequencies:
+───────────────────────────────────────────────────────────────────────────
+  Run  0: f1=  1.5786 Hz  f2=  6.7445 Hz  f3= 12.8529 Hz
+  Run  1: f1=  1.7241 Hz  f2=  7.3240 Hz  f3= 13.9493 Hz
+  Run  2: f1=  1.1480 Hz  f2=  4.8996 Hz  f3=  9.3341 Hz
+  Run  3: f1=  5.0462 Hz  f2= 21.5177 Hz  f3= 41.0254 Hz
+  Run  4: f1=  1.4828 Hz  f2=  6.3079 Hz  f3= 12.0162 Hz
+  Run  5: f1=  0.3488 Hz  f2=  1.4846 Hz  f3=  2.8279 Hz
+  Run  6: f1=  3.1782 Hz  f2= 13.5221 Hz  f3= 25.7704 Hz
+  Run  7: f1=  3.4196 Hz  f2= 14.6252 Hz  f3= 27.8776 Hz
+  Run  8: f1=  3.5132 Hz  f2= 14.9276 Hz  f3= 28.4505 Hz
+  Run  9: f1=  1.7657 Hz  f2=  7.5398 Hz  f3= 14.3648 Hz
+  Run 10: f1=  1.6245 Hz  f2=  6.9291 Hz  f3= 13.2032 Hz
+  Run 11: f1=  1.4867 Hz  f2=  6.3248 Hz  f3= 12.0498 Hz
+  Run 12: f1=  0.6304 Hz  f2=  2.6865 Hz  f3=  5.1176 Hz
+  Run 13: f1=  0.5756 Hz  f2=  2.4551 Hz  f3=  4.6768 Hz
+  Run 14: f1=  3.2604 Hz  f2= 13.8855 Hz  f3= 26.4659 Hz
+  Run 15: f1=  2.5401 Hz  f2= 10.7902 Hz  f3= 20.5549 Hz
+  Run 16: f1=  1.0036 Hz  f2=  4.2641 Hz  f3=  8.1218 Hz
+  Run 17: f1=  4.1985 Hz  f2= 17.9336 Hz  f3= 34.1785 Hz
+  Run 18: f1=  3.0653 Hz  f2= 13.0520 Hz  f3= 24.8823 Hz
+  Run 19: f1=  2.2062 Hz  f2=  9.4299 Hz  f3= 17.9686 Hz
+  Run 20: f1=  1.9570 Hz  f2=  8.3558 Hz  f3= 15.9266 Hz
+  Run 21: f1=  2.5495 Hz  f2= 10.8327 Hz  f3= 20.6408 Hz
+  Run 22: f1=  1.6759 Hz  f2=  7.1594 Hz  f3= 13.6397 Hz
+  Run 23: f1=  0.8410 Hz  f2=  3.5929 Hz  f3=  6.8443 Hz
+  Run 24: f1=  2.6943 Hz  f2= 11.4838 Hz  f3= 21.8949 Hz
+  Run 25: f1=  0.3165 Hz  f2=  1.3517 Hz  f3=  2.5750 Hz
+  Run 26: f1=  1.0887 Hz  f2=  4.6335 Hz  f3=  8.8261 Hz
+  Run 27: f1=  0.5558 Hz  f2=  2.3631 Hz  f3=  4.5014 Hz
+  Run 28: f1=  1.0068 Hz  f2=  4.2918 Hz  f3=  8.1761 Hz
+  Run 29: f1=  0.2725 Hz  f2=  1.1579 Hz  f3=  2.2051 Hz
+  Run 30: f1=  3.0679 Hz  f2= 13.0784 Hz  f3= 24.9253 Hz
+  Run 31: f1=  1.3316 Hz  f2=  5.6732 Hz  f3= 10.8085 Hz
+  Run 32: f1=  2.7287 Hz  f2= 11.6664 Hz  f3= 22.2292 Hz
+  Run 33: f1=  1.8013 Hz  f2=  7.6721 Hz  f3= 14.6171 Hz
+  Run 34: f1=  2.9316 Hz  f2= 12.5104 Hz  f3= 23.8462 Hz
+  Run 35: f1=  4.1514 Hz  f2= 17.6535 Hz  f3= 33.6517 Hz
+  Run 36: f1=  4.5283 Hz  f2= 19.3389 Hz  f3= 36.8667 Hz
+  Run 37: f1=  2.3353 Hz  f2=  9.9656 Hz  f3= 18.9888 Hz
+  Run 38: f1=  3.0929 Hz  f2= 13.1677 Hz  f3= 25.0940 Hz
+  Run 39: f1=  0.8217 Hz  f2=  3.5000 Hz  f3=  6.6673 Hz
+  Run 40: f1=  2.7036 Hz  f2= 11.5521 Hz  f3= 22.0191 Hz
+  Run 41: f1=  4.1200 Hz  f2= 17.5293 Hz  f3= 33.4114 Hz
+  Run 42: f1=  1.1300 Hz  f2=  4.8176 Hz  f3=  9.1791 Hz
+  Run 43: f1=  1.5783 Hz  f2=  6.7104 Hz  f3= 12.7833 Hz
+  Run 44: f1=  3.0225 Hz  f2= 12.8500 Hz  f3= 24.4828 Hz
+  Run 45: f1=  0.6573 Hz  f2=  2.7935 Hz  f3=  5.3205 Hz
+  Run 46: f1=  1.7359 Hz  f2=  7.3891 Hz  f3= 14.0798 Hz
+  Run 47: f1=  3.1817 Hz  f2= 13.5516 Hz  f3= 25.8245 Hz
+  Run 48: f1=  1.2705 Hz  f2=  5.4189 Hz  f3= 10.3231 Hz
+  Run 49: f1=  2.9999 Hz  f2= 12.7954 Hz  f3= 24.3841 Hz
+
+===========================================================================
+✓ Results saved to: results_summary.csv
+✓ Successful extractions: 50/50
+===========================================================================
+
+
+C:\Paper3\50_run_automation>python GP_training_data_generator.py
+python: can't open file 'C:\\Paper3\\50_run_automation\\GP_training_data_generator.py': [Errno 2] No such file or directory
+
+C:\Paper3\50_run_automation>python GP_training_data_generator.py
+python: can't open file 'C:\\Paper3\\50_run_automation\\GP_training_data_generator.py': [Errno 2] No such file or directory
+
+C:\Paper3\50_run_automation>python GP_training_data_generator.py
+✓ Generated: GP_training_data.csv
+✓ Total samples: 50
+✓ Columns: Run_ID, Thickness_mm, YoungsModulus_MPa, Density_t_mm3, PoissonsRatio, Freq1_Hz, Freq2_Hz, Freq3_Hz
+
+C:\Paper3\50_run_automation>python Training_GP.py
+>>> Loading training data from GP_training_data.csv...
+
+>>> Starting Gaussian Process Surrogate Training Loop...
+
+--------------------------------------------------
+>>> Training GP model for target: Freq1_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+Metrics -> R² Score: 0.999995 | RMSE: 0.002666 Hz
+Optimized Hyperparameters:
+ 6.56**2 * RBF(length_scale=[9.86, 3.33, 74.8, 100]) + WhiteKernel(noise_level=8.23e-08)
+>>> Diagnostic plots saved to: gp_evaluation_freq1_hz.png
+
+--------------------------------------------------
+>>> Training GP model for target: Freq2_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+Metrics -> R² Score: 0.999995 | RMSE: 0.011335 Hz
+Optimized Hyperparameters:
+ 28.9**2 * RBF(length_scale=[9.98, 3.34, 75, 100]) + WhiteKernel(noise_level=1.58e-06)
+>>> Diagnostic plots saved to: gp_evaluation_freq2_hz.png
+
+--------------------------------------------------
+>>> Training GP model for target: Freq3_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+Metrics -> R² Score: 0.999994 | RMSE: 0.023997 Hz
+Optimized Hyperparameters:
+ 31.6**2 * RBF(length_scale=[7.41, 2.99, 58, 100]) + WhiteKernel(noise_level=7.83e-06)
+>>> Diagnostic plots saved to: gp_evaluation_freq3_hz.png
+
+==================================================
+>>> Machine Learning Pipeline Executed Successfully!
+==================================================
+
+C:\Paper3\50_run_automation>python GP_cross_validation.py
+>>> Loading dataset from GP_training_data.csv...
+Total Combined Observations: 50
+Isolated Training Set Size (For CV Loop) : 40
+Locked Test Bench Set Size (Final Exam Only): 10
+
+>>> Initiating 5-Fold Cross-Validation inside the training matrix...
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 2 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 2 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:445: ConvergenceWarning: The optimal value found for dimension 0 of parameter k2__noise_level is close to the specified lower bound 1e-08. Decreasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+
+=== CROSS-VALIDATION SUMMARY STATISTICS (NO LEAKAGE) ===
+Component: Freq1_Hz
+  - Mean Cross-Val R²   : 0.999979 (+/- 0.000008)
+  - Mean Cross-Val RMSE : 0.004654 Hz (+/- 0.000861 Hz)
+Component: Freq2_Hz
+  - Mean Cross-Val R²   : 0.999981 (+/- 0.000009)
+  - Mean Cross-Val RMSE : 0.019063 Hz (+/- 0.004377 Hz)
+Component: Freq3_Hz
+  - Mean Cross-Val R²   : 0.999978 (+/- 0.000010)
+  - Mean Cross-Val RMSE : 0.038776 Hz (+/- 0.003541 Hz)
+
+>>> Re-fitting model to full 80% training set and deploying against locked test bench...
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+
+Final Isolated Test Metrics for Freq1_Hz:
+  - Verified Test R² score : 0.999995
+  - Verified Test RMSE     : 0.002666 Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+
+Final Isolated Test Metrics for Freq2_Hz:
+  - Verified Test R² score : 0.999995
+  - Verified Test RMSE     : 0.011335 Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\_gpr.py:663: ConvergenceWarning: lbfgs failed to converge (status=2):
+ABNORMAL: .
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  _check_optimize_result("lbfgs", opt_res)
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+
+Final Isolated Test Metrics for Freq3_Hz:
+  - Verified Test R² score : 0.999994
+  - Verified Test RMSE     : 0.023997 Hz
+
+>>> Strict validation complete. Master plot saved to: 'gp_strict_no_leakage_evaluation.png'
+
+C:\Paper3\50_run_automation>python linear_regression.py
+>>> Loading dataset for Linear Regression benchmark: GP_training_data.csv
+
+=== LINEAR REGRESSION BENCHMARK PERFORMANCE ===
+
+Target Variable: Freq1_Hz
+  - Linear Regression R² score : 0.938094
+  - Linear Regression RMSE     : 0.304957 Hz
+
+Target Variable: Freq2_Hz
+  - Linear Regression R² score : 0.938518
+  - Linear Regression RMSE     : 1.298551 Hz
+
+Target Variable: Freq3_Hz
+  - Linear Regression R² score : 0.938513
+  - Linear Regression RMSE     : 2.475080 Hz
+
+>>> Benchmark complete. Plots saved to: 'linear_regression_evaluation.png'
+==============================================================
+
+
+C:\Paper3\50_run_automation>python EXGBoost.py
+python: can't open file 'C:\\Paper3\\50_run_automation\\EXGBoost.py': [Errno 2] No such file or directory
+
+C:\Paper3\50_run_automation>python EXGBoost.py
+python: can't open file 'C:\\Paper3\\50_run_automation\\EXGBoost.py': [Errno 2] No such file or directory
+
+C:\Paper3\50_run_automation>python XGBoost.py
+>>> Loading dataset for XGBoost benchmark: GP_training_data.csv
+
+=== XGBOOST BENCHMARK PERFORMANCE ===
+
+Target Variable: Freq1_Hz
+  - XGBoost Test R² score : 0.947143
+  - XGBoost Test RMSE     : 0.281790 Hz
+
+Target Variable: Freq2_Hz
+  - XGBoost Test R² score : 0.941867
+  - XGBoost Test RMSE     : 1.262687 Hz
+
+Target Variable: Freq3_Hz
+  - XGBoost Test R² score : 0.942789
+  - XGBoost Test RMSE     : 2.387462 Hz
+
+>>> Benchmark complete. Plots saved to: 'xgboost_evaluation.png'
+==============================================================
+
+
+C:\Paper3\50_run_automation>python ANN.py
+>>> Loading dataset for Artificial Neural Network benchmark: GP_training_data.csv
+
+=== ARTIFICIAL NEURAL NETWORK (ANN) BENCHMARK PERFORMANCE ===
+
+Target Variable: Freq1_Hz
+  - ANN Test R² score : 0.997926
+  - ANN Test RMSE     : 0.055817 Hz
+
+Target Variable: Freq2_Hz
+  - ANN Test R² score : 0.998187
+  - ANN Test RMSE     : 0.222975 Hz
+
+Target Variable: Freq3_Hz
+  - ANN Test R² score : 0.998698
+  - ANN Test RMSE     : 0.360231 Hz
+
+>>> Benchmark complete. Plots saved to: 'ann_regression_evaluation.png'
+==============================================================
+
+
+C:\Paper3\50_run_automation>python model_serialization.py
+>>> Training final production GP model for: Freq1_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+>>> Training final production GP model for: Freq2_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+>>> Training final production GP model for: Freq3_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+
+>>> Success! 'gp_production_payload.pkl' saved and ready for PSO optimization.
+
+C:\Paper3\50_run_automation>python PSO_optimization.py
+  File "C:\Paper3\50_run_automation\PSO_optimization.py", line 1
+    pip install pyswarm
+        ^^^^^^^
+SyntaxError: invalid syntax
+
+C:\Paper3\50_run_automation>python model_serialization.py
+>>> Training final production GP model for: Freq1_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+>>> Training final production GP model for: Freq2_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+>>> Training final production GP model for: Freq3_Hz
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 0 of parameter k1__k1__constant_value is close to the specified upper bound 1000.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+C:\Users\User\AppData\Roaming\Python\Python311\site-packages\sklearn\gaussian_process\kernels.py:455: ConvergenceWarning: The optimal value found for dimension 3 of parameter k1__k2__length_scale is close to the specified upper bound 100.0. Increasing the bound and calling fit again may find a better value.
+  warnings.warn(
+
+>>> Success! 'gp_production_payload.pkl' saved and ready for PSO optimization.
+
+C:\Paper3\50_run_automation>python PSO_optimization.py
+  File "C:\Paper3\50_run_automation\PSO_optimization.py", line 1
+    !pip install pyswarm
+    ^
+SyntaxError: invalid syntax
+
+C:\Paper3\50_run_automation>pip install pyswarm
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pyswarm
+  Downloading pyswarm-1.0.0-cp311-cp311-win_amd64.whl.metadata (4.3 kB)
+Requirement already satisfied: numpy in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from pyswarm) (2.2.6)
+Downloading pyswarm-1.0.0-cp311-cp311-win_amd64.whl (289 kB)
+Installing collected packages: pyswarm
+Successfully installed pyswarm-1.0.0
+
+[notice] A new release of pip is available: 26.0 -> 26.1.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+C:\Paper3\50_run_automation>python PSO_optimization.py
+>>> Loading production GP surrogate models...
+
+>>> Launching Particle Swarm Optimization Loop...
+    Lower search bounds: [0.005, 1000.0, 1.1e-09, 0.25]
+    Upper search bounds: [0.03, 6000.0, 1.4e-09, 0.35]
+Traceback (most recent call last):
+  File "C:\Paper3\50_run_automation\PSO_optimization.py", line 69, in <module>
+    optimal_x, optimal_score = pso(
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+C:\Paper3\50_run_automation>python PSO_optimization.py
+PSO function: <function pso at 0x000001D4FF147740>
+PSO module: pyswarm
+>>> Loading production GP surrogate models...
+
+>>> Launching Particle Swarm Optimization Loop...
+    Lower search bounds: [0.005, 1000.0, 1.1e-09, 0.25]
+    Upper search bounds: [0.03, 6000.0, 1.4e-09, 0.35]
+Traceback (most recent call last):
+  File "C:\Paper3\50_run_automation\PSO_optimization.py", line 73, in <module>
+    optimal_x, optimal_score = pso(
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+C:\Paper3\50_run_automation>python PSO_optimization.py
+PSO function: <function pso at 0x000001F7D3F67740>
+PSO module: pyswarm
+>>> Loading production GP surrogate models...
+
+>>> Launching Particle Swarm Optimization Loop...
+    Lower search bounds: [0.005, 1000.0, 1.1e-09, 0.25]
+    Upper search bounds: [0.03, 6000.0, 1.4e-09, 0.35]
+
+==================================================
+>>> PSO CONVERGENCE RESULTS
+==================================================
+Optimization Success    : True
+Total Iterations Run    : 100
+Optimal Thickness       : 0.030000 mm
+Optimal Young's Modulus : 6000.00 MPa
+Optimal Density         : 1.10000e-09 t/mm³
+Optimal Poisson's Ratio : 0.2500
+
+Surrogate Predicted Eigenvalues at Optimum:
+  - Mode 1 Frequency : 5.6672 Hz
+  - Mode 2 Frequency : 24.2402 Hz
+  - Mode 3 Frequency : 46.1307 Hz
+==================================================
+
+
+C:\Paper3\50_run_automation>pip install SALib
+Defaulting to user installation because normal site-packages is not writeable
+Collecting SALib
+  Downloading salib-1.5.2-py3-none-any.whl.metadata (11 kB)
+Requirement already satisfied: matplotlib>=3.5 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from SALib) (3.9.1)
+Collecting multiprocess (from SALib)
+  Downloading multiprocess-0.70.19-py311-none-any.whl.metadata (7.5 kB)
+Requirement already satisfied: numpy>=2.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from SALib) (2.2.6)
+Requirement already satisfied: pandas>=2.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from SALib) (2.3.3)
+Requirement already satisfied: scipy>=1.9.3 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from SALib) (1.17.0)
+Requirement already satisfied: contourpy>=1.0.1 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (1.2.1)
+Requirement already satisfied: cycler>=0.10 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (4.53.1)
+Requirement already satisfied: kiwisolver>=1.3.1 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (1.4.5)
+Requirement already satisfied: packaging>=20.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (25.0)
+Requirement already satisfied: pillow>=8 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (12.1.0)
+Requirement already satisfied: pyparsing>=2.3.1 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (3.1.2)
+Requirement already satisfied: python-dateutil>=2.7 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from matplotlib>=3.5->SALib) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from pandas>=2.0->SALib) (2022.7.1)
+Requirement already satisfied: tzdata>=2022.7 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from pandas>=2.0->SALib) (2023.3)
+Requirement already satisfied: six>=1.5 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from python-dateutil>=2.7->matplotlib>=3.5->SALib) (1.16.0)
+Collecting dill>=0.4.1 (from multiprocess->SALib)
+  Downloading dill-0.4.1-py3-none-any.whl.metadata (10 kB)
+Downloading salib-1.5.2-py3-none-any.whl (780 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 780.1/780.1 kB 2.4 MB/s  0:00:00
+Downloading multiprocess-0.70.19-py311-none-any.whl (144 kB)
+Downloading dill-0.4.1-py3-none-any.whl (120 kB)
+Installing collected packages: dill, multiprocess, SALib
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━╸━━━━━━━━━━━━━ 2/3 [SALib]  WARNING: The script salib.exe is installed in 'C:\Users\User\AppData\Roaming\Python\Python311\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed SALib-1.5.2 dill-0.4.1 multiprocess-0.70.19
+
+[notice] A new release of pip is available: 26.0 -> 26.1.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+C:\Paper3\50_run_automation>python sobol.py
+python: can't open file 'C:\\Paper3\\50_run_automation\\sobol.py': [Errno 2] No such file or directory
+
+C:\Paper3\50_run_automation>python sobol_analysis.py
+>>> Loading production GP surrogate models...
+
+>>> Generating Saltelli sampling matrix (Base N=1024)...
+C:\Paper3\50_run_automation\sobol_analysis.py:39: DeprecationWarning: `salib.sample.saltelli` will be removed in SALib 1.5.1 Please use `salib.sample.sobol`
+  param_values = saltelli.sample(problem, N)
+    Total generated structural configurations to evaluate: 10240
+
+>>> Decomposing variance parameters via Sobol analysis...
+
+Sensitivity Breakdown for Freq1_Hz:
+  - Thickness_mm       | First-Order (S1): 0.7415 | Total-Effect (ST): 0.7785
+  - YoungsModulus_MPa  | First-Order (S1): 0.2155 | Total-Effect (ST): 0.2525
+  - Density_t_mm3      | First-Order (S1): 0.0051 | Total-Effect (ST): 0.0063
+  - PoissonsRatio      | First-Order (S1): 0.0000 | Total-Effect (ST): 0.0000
+
+Sensitivity Breakdown for Freq2_Hz:
+  - Thickness_mm       | First-Order (S1): 0.7416 | Total-Effect (ST): 0.7787
+  - YoungsModulus_MPa  | First-Order (S1): 0.2153 | Total-Effect (ST): 0.2524
+  - Density_t_mm3      | First-Order (S1): 0.0051 | Total-Effect (ST): 0.0063
+  - PoissonsRatio      | First-Order (S1): 0.0000 | Total-Effect (ST): 0.0000
+
+Sensitivity Breakdown for Freq3_Hz:
+  - Thickness_mm       | First-Order (S1): 0.7420 | Total-Effect (ST): 0.7790
+  - YoungsModulus_MPa  | First-Order (S1): 0.2150 | Total-Effect (ST): 0.2521
+  - Density_t_mm3      | First-Order (S1): 0.0050 | Total-Effect (ST): 0.0063
+  - PoissonsRatio      | First-Order (S1): 0.0000 | Total-Effect (ST): 0.0000
+
+>>> Global Sensitivity Analysis complete. Publication plot saved as: 'global_sensitivity_sobol.png'
+
+C:\Paper3\50_run_automation>pip install shap
+Defaulting to user installation because normal site-packages is not writeable
+Collecting shap
+  Downloading shap-0.51.0-cp311-cp311-win_amd64.whl.metadata (26 kB)
+Requirement already satisfied: numpy>=2 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (2.2.6)
+Requirement already satisfied: scipy in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (1.17.0)
+Requirement already satisfied: scikit-learn in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (1.4.2)
+Requirement already satisfied: pandas in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (2.3.3)
+Requirement already satisfied: tqdm>=4.27.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (4.67.1)
+Requirement already satisfied: packaging>20.9 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (25.0)
+Collecting slicer==0.0.8 (from shap)
+  Downloading slicer-0.0.8-py3-none-any.whl.metadata (4.0 kB)
+Collecting numba (from shap)
+  Downloading numba-0.65.1-cp311-cp311-win_amd64.whl.metadata (2.8 kB)
+Collecting llvmlite (from shap)
+  Downloading llvmlite-0.47.0-cp311-cp311-win_amd64.whl.metadata (4.9 kB)
+Collecting cloudpickle (from shap)
+  Downloading cloudpickle-3.1.2-py3-none-any.whl.metadata (7.1 kB)
+Requirement already satisfied: typing-extensions in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from shap) (4.15.0)
+Requirement already satisfied: colorama in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from tqdm>=4.27.0->shap) (0.4.6)
+Requirement already satisfied: python-dateutil>=2.8.2 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from pandas->shap) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from pandas->shap) (2022.7.1)
+Requirement already satisfied: tzdata>=2022.7 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from pandas->shap) (2023.3)
+Requirement already satisfied: six>=1.5 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from python-dateutil>=2.8.2->pandas->shap) (1.16.0)
+Requirement already satisfied: joblib>=1.2.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from scikit-learn->shap) (1.5.3)
+Requirement already satisfied: threadpoolctl>=2.0.0 in C:\Users\User\AppData\Roaming\Python\Python311\site-packages (from scikit-learn->shap) (3.6.0)
+Downloading shap-0.51.0-cp311-cp311-win_amd64.whl (554 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 554.9/554.9 kB 3.1 MB/s  0:00:00
+Downloading slicer-0.0.8-py3-none-any.whl (15 kB)
+Downloading cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Downloading llvmlite-0.47.0-cp311-cp311-win_amd64.whl (38.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 38.1/38.1 MB 3.4 MB/s  0:00:11
+Downloading numba-0.65.1-cp311-cp311-win_amd64.whl (2.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.7/2.7 MB 3.1 MB/s  0:00:00
+Installing collected packages: slicer, llvmlite, cloudpickle, numba, shap
+Successfully installed cloudpickle-3.1.2 llvmlite-0.47.0 numba-0.65.1 shap-0.51.0 slicer-0.0.8
+
+[notice] A new release of pip is available: 26.0 -> 26.1.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+C:\Paper3\50_run_automation>python SHAPE_analysis.py
+>>> Loading production GP surrogate models and payload...
+
+>>> Initializing SHAP Kernel Explainer for Freq1_Hz...
+>>> Computing Shapley values across the dataset arrays...
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 637.15it/s]
+
+>>> Exporting publication-grade SHAP plots...
+  - Saved: 'shap_global_importance_bar.png'
+  - Saved: 'shap_summary_beeswarm.png'
+
+>>> SHAP Sensitivity Evaluation completely successfully.
+
+C:\Paper3\50_run_automation>python stastical_analysis_input_data.py
+>>>> Loading dataset for statistical verification: GP_training_data.csv
+
+=== DATASET DESCRIPTIVE STATISTICS ===
+                           mean           std           min           max
+Thickness_mm       1.601774e-02  8.162408e-03  2.135471e-03  2.952209e-02
+YoungsModulus_MPa  3.494946e+03  1.456795e+03  1.009740e+03  5.941236e+03
+Density_t_mm3      1.265073e-09  3.787176e-11  1.201816e-09  1.327848e-09
+PoissonsRatio      3.000304e-01  2.922535e-02  2.506074e-01  3.486053e-01
+Freq1_Hz           2.118896e+00  1.211803e+00  2.725210e-01  5.046167e+00
+Freq2_Hz           9.030016e+00  5.165533e+00  1.157868e+00  2.151775e+01
+Freq3_Hz           1.720842e+01  9.847593e+00  2.205092e+00  4.102537e+01
+
+>>> Computing distribution profiles...
+  - Saved distribution analysis to: 'dataset_distribution_profiles.png'
+
+>>> Generating feature correlation matrices...
+  - Saved correlation analysis to: 'dataset_feature_correlation.png'
+
+>>>> Statistical analysis suite completed successfully.
+
+C:\Paper3\50_run_automation>python stastical_analysis_input_data.py
+>>>> Loading dataset for statistical verification: GP_training_data.csv
+
+>>> Computing distribution profiles with statistical indicators...
+
+>>>> Complete! Statistical distribution plots saved as: 'dataset_distributions_with_stats.png'
+
+C:\Paper3\50_run_automation>python stastical_analysis_input_data.py
+Traceback (most recent call last):
+  File "C:\Paper3\50_run_automation\stastical_analysis_input_data.py", line 1, in <module>
+    v
+NameError: name 'v' is not defined
+
+C:\Paper3\50_run_automation>python stastical_analysis_input_data.py
+Traceback (most recent call last):
+  File "C:\Paper3\50_run_automation\stastical_analysis_input_data.py", line 1, in <module>
+    v
+NameError: name 'v' is not defined
+
+C:\Paper3\50_run_automation>python stastical_analysis_input_data.py

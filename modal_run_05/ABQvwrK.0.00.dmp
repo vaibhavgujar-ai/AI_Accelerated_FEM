@@ -1,0 +1,24 @@
+<Description>
+   ***  ABAQUS/ABQvwrK rank 0 received the SIGABRT signal
+</Description>
+
+<Callstack>
+</Callstack>
+
+<Memory>
+   <Current>             111 MB </Current>
+   <Physical>          16222 MB </Physical>
+   <Limit>                 0 MB </Limit>
+   <Virtual>       134217728 MB </Virtual>
+   <Accessible>        16222 MB </Accessible>
+   <Allocator>            DL    </Allocator>
+</Memory>
+
+<Directories>
+  <current> C:\Paper3\50_run_automation\modal_run_05 </current> 
+     <temp> C:\Users\User\AppData\Local\Temp </temp>
+</Directories>
+
+<Installation>
+</Installation>
+
